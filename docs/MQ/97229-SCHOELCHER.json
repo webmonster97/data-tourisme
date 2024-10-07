@@ -1,0 +1,60 @@
+[
+  {
+    "id": "hotel-97229-001",
+    "nom": "Hotel La Batelière",
+    "description": "Un hôtel de charme sur la plage avec un accès direct à la mer.",
+    "adresse": {
+      "ligne1": "Rue de la plage",
+      "ligne2": "",
+      "codePostal": "97233",
+      "ville": "Schœlcher",
+      "pays": "France"
+    },
+    "coordonnees": {
+      "latitude": 14.5925,
+      "longitude": -60.9310
+    },
+    "classement": "4 étoiles",
+    "contact": {
+      "telephone": "+596 596 68 34 34",
+      "email": "info@labateliere.com",
+      "siteWeb": "http://www.labateliere.com"
+    },
+    "equipements": [
+      "Plage privée",
+      "Restaurant",
+      "Bar",
+      "Piscine",
+      "Wi-Fi gratuit"
+    ]
+  },
+  {
+    "id": "hotel-97229-002",
+    "nom": "Hôtel La Marquise",
+    "description": "Hôtel élégant avec jardins tropicaux et services de spa.",
+    "adresse": {
+      "ligne1": "Route de l'Anse Mitan",
+      "ligne2": "",
+      "codePostal": "97233",
+      "ville": "Schœlcher",
+      "pays": "France"
+    },
+    "coordonnees": {
+      "latitude": 14.5893,
+      "longitude": -60.9519
+    },
+    "classement": "3 étoiles",
+    "contact": {
+      "telephone": "+596 596 68 90 90",
+      "email": "contact@lamarquise.com",
+      "siteWeb": "http://www.lamarquise.com"
+    },
+    "equipements": [
+      "Spa",
+      "Restaurant",
+      "Jardin",
+      "Wi-Fi gratuit",
+      "Terrasse"
+    ]
+  }
+]
