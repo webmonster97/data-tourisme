@@ -1,0 +1,28 @@
+{
+  "id": "hotel-001",
+  "nom": "Le Paradis Tropical",
+  "description": "Un hôtel de luxe avec vue sur la mer.",
+  "adresse": {
+    "ligne1": "123 Rue de la Plage",
+    "ligne2": "Quartier des Fleurs",
+    "codePostal": "97200",
+    "ville": "Fort-de-France",
+    "pays": "France"
+  },
+  "coordonnees": {
+    "latitude": 14.6049,
+    "longitude": -60.9834
+  },
+  "classement": "4 étoiles",
+  "contact": {
+    "telephone": "+596 123 4567",
+    "email": "contact@leparadistropical.com",
+    "siteWeb": "http://www.leparadistropical.com"
+  },
+  "equipements": [
+    "Piscine",
+    "Wi-Fi gratuit",
+    "Restaurant",
+    "Salle de gym"
+  ]
+}
