@@ -94,7 +94,7 @@ Ce fichier contient un exemple de données d'un hôtel, conforme au schéma déf
 
 ```bash
 git clone https://github.com/webmonster97/data-tourisme.git
-cd ton-repo
+cd data-tourisme
 ```
 
 **Installer les dépendances** :
