@@ -1,0 +1,89 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Hôtel",
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Identifiant unique de l'hôtel"
+    },
+    "nom": {
+      "type": "string",
+      "description": "Nom de l'hôtel"
+    },
+    "description": {
+      "type": "string",
+      "description": "Description de l'hôtel"
+    },
+    "adresse": {
+      "type": "object",
+      "properties": {
+        "ligne1": {
+          "type": "string",
+          "description": "Première ligne de l'adresse"
+        },
+        "ligne2": {
+          "type": "string",
+          "description": "Deuxième ligne de l'adresse (facultatif)"
+        },
+        "codePostal": {
+          "type": "string",
+          "description": "Code postal"
+        },
+        "ville": {
+          "type": "string",
+          "description": "Ville"
+        },
+        "pays": {
+          "type": "string",
+          "description": "Pays"
+        }
+      },
+      "required": ["ligne1", "codePostal", "ville", "pays"]
+    },
+    "coordonnees": {
+      "type": "object",
+      "properties": {
+        "latitude": {
+          "type": "number",
+          "description": "Latitude de l'hôtel"
+        },
+        "longitude": {
+          "type": "number",
+          "description": "Longitude de l'hôtel"
+        }
+      },
+      "required": ["latitude", "longitude"]
+    },
+    "classement": {
+      "type": "string",
+      "description": "Classement de l'hôtel (étoiles, etc.)"
+    },
+    "contact": {
+      "type": "object",
+      "properties": {
+        "telephone": {
+          "type": "string",
+          "description": "Numéro de téléphone"
+        },
+        "email": {
+          "type": "string",
+          "description": "Adresse email"
+        },
+        "siteWeb": {
+          "type": "string",
+          "description": "URL du site web"
+        }
+      },
+      "required": ["telephone", "email"]
+    },
+    "equipements": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "description": "Liste des équipements disponibles"
+      }
+    }
+  },
+  "required": ["id", "nom", "description", "adresse", "coordonnees", "contact"]
+}
