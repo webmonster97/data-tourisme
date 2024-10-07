@@ -26,11 +26,12 @@ Ce fichier contient le schéma JSON utilisé pour valider les données des hôte
 }
 ```
 
-### 2. validation.js
+### 2. `validation.js`
 
 Ce fichier contient le code JavaScript utilisant la bibliothèque Ajv pour valider les données des hôtels contre le schéma défini dans schema-validation.json. Il importe le schéma et effectue une validation sur un exemple de données d'hôtel.
 
 **Exemple de contenu** :
+
 ```javascript
 const Ajv = require("ajv");
 const ajv = new Ajv();
@@ -50,7 +51,7 @@ if (!valid) {
 }
 ```
 
-### 3. exemple.json
+### 3. `exemple.json`
 
 Ce fichier contient un exemple de données d'un hôtel, conforme au schéma défini dans schema-validation.json. Il sert d'illustration pour les développeurs souhaitant créer leurs propres données.
 
