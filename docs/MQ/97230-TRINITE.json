@@ -1,0 +1,118 @@
+[
+  {
+    "id": "hotel-001",
+    "nom": "Hôtel Le Galion",
+    "description": "Hôtel 3 étoiles avec accès direct à la plage, restaurant et activités nautiques.",
+    "adresse": {
+      "ligne1": "Route de la Plage",
+      "ligne2": "",
+      "codePostal": "97220",
+      "ville": "Trinité",
+      "pays": "France"
+    },
+    "coordonnees": {
+      "latitude": 14.8251,
+      "longitude": -60.8831
+    },
+    "classement": "3 étoiles",
+    "contact": {
+      "telephone": "+596 596 58 80 80",
+      "email": "contact@legalion.com",
+      "siteWeb": "http://www.legalion.com"
+    },
+    "equipements": [
+      "Accès à la plage",
+      "Restaurant",
+      "Bar",
+      "Wi-Fi gratuit",
+      "Activités nautiques"
+    ]
+  },
+  {
+    "id": "hotel-002",
+    "nom": "Hôtel Caribeen",
+    "description": "Charmant hôtel en bord de mer, idéal pour les couples et les familles.",
+    "adresse": {
+      "ligne1": "Anse Bonneville",
+      "ligne2": "",
+      "codePostal": "97220",
+      "ville": "Trinité",
+      "pays": "France"
+    },
+    "coordonnees": {
+      "latitude": 14.8355,
+      "longitude": -60.8716
+    },
+    "classement": "3 étoiles",
+    "contact": {
+      "telephone": "+596 596 58 78 78",
+      "email": "info@hotelcaribeen.com",
+      "siteWeb": "http://www.hotelcaribeen.com"
+    },
+    "equipements": [
+      "Restaurant",
+      "Bar",
+      "Terrasse",
+      "Wi-Fi gratuit",
+      "Salle de jeux"
+    ]
+  },
+  {
+    "id": "hotel-003",
+    "nom": "Résidence Les Flamboyants",
+    "description": "Résidence de vacances avec appartements équipés et piscine.",
+    "adresse": {
+      "ligne1": "Rue des Flamboyants",
+      "ligne2": "",
+      "codePostal": "97220",
+      "ville": "Trinité",
+      "pays": "France"
+    },
+    "coordonnees": {
+      "latitude": 14.8290,
+      "longitude": -60.8903
+    },
+    "classement": "3 étoiles",
+    "contact": {
+      "telephone": "+596 596 58 90 90",
+      "email": "contact@lesflamboyants.com",
+      "siteWeb": "http://www.lesflamboyants.com"
+    },
+    "equipements": [
+      "Piscine",
+      "Terrasse",
+      "Wi-Fi gratuit",
+      "Cuisine équipée",
+      "Jardin"
+    ]
+  },
+  {
+    "id": "hotel-004",
+    "nom": "Hôtel La Plantation",
+    "description": "Hôtel 4 étoiles au cœur d'un jardin tropical, avec restaurant gastronomique.",
+    "adresse": {
+      "ligne1": "Route de la Plantation",
+      "ligne2": "",
+      "codePostal": "97220",
+      "ville": "Trinité",
+      "pays": "France"
+    },
+    "coordonnees": {
+      "latitude": 14.8265,
+      "longitude": -60.8751
+    },
+    "classement": "4 étoiles",
+    "contact": {
+      "telephone": "+596 596 58 85 85",
+      "email": "contact@laplantation.com",
+      "siteWeb": "http://www.laplantation.com"
+    },
+    "equipements": [
+      "Restaurant",
+      "Spa",
+      "Bar",
+      "Wi-Fi gratuit",
+      "Activités sportives"
+    ]
+  }
+]
