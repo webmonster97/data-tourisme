@@ -2,6 +2,16 @@
 
 Ce projet fournit une API JSON pour référencer tous les hôtels de la Martinique et de la Guadeloupe, en utilisant un schéma conforme aux normes de Datatourisme.
 
+## Liste des données collectées
+
+### Martinique
+
+Les communes sont classées par code INSEE.
+
+97231 - [Les Trois-Ilets](docs/MQ/97231.json)
+
+---
+
 ## Fichiers
 
 ### 1. `schema-validation.json`
