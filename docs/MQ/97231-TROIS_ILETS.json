@@ -114,5 +114,63 @@
       "Wi-Fi gratuit",
       "Accès à la plage"
     ]
+  },
+  {
+    "id": "hotel-97231-005",
+    "nom": "Hôtel Impératrice",
+    "description": "Hôtel 3 étoiles avec vue sur la mer et accès à la plage, idéal pour les familles.",
+    "adresse": {
+      "ligne1": "Avenue de l'Impératrice",
+      "ligne2": "",
+      "codePostal": "97229",
+      "ville": "Les Trois-Îlets",
+      "pays": "France"
+    },
+    "coordonnees": {
+      "latitude": 14.5925,
+      "longitude": -60.8710
+    },
+    "classement": "3 étoiles",
+    "contact": {
+      "telephone": "+596 596 66 60 60",
+      "email": "contact@imperatrice.com",
+      "siteWeb": "http://www.imperatrice.com"
+    },
+    "equipements": [
+      "Accès à la plage",
+      "Wi-Fi gratuit",
+      "Restaurant",
+      "Salle de jeux",
+      "Terrasse"
+    ]
+  },
+  {
+    "id": "hotel-97231-006",
+    "nom": "Hôtel Carayou",
+    "description": "Hôtel 4 étoiles avec accès direct à la plage, restaurant créole et piscine.",
+    "adresse": {
+      "ligne1": "Anse Mitan",
+      "ligne2": "",
+      "codePostal": "97229",
+      "ville": "Les Trois-Îlets",
+      "pays": "France"
+    },
+    "coordonnees": {
+      "latitude": 14.5876,
+      "longitude": -60.8775
+    },
+    "classement": "4 étoiles",
+    "contact": {
+      "telephone": "+596 596 66 09 09",
+      "email": "contact@carayou.com",
+      "siteWeb": "http://www.carayou.com"
+    },
+    "equipements": [
+      "Plage privée",
+      "Restaurant",
+      "Bar",
+      "Salle de sport",
+      "Wi-Fi gratuit"
+    ]
   }
 ]
