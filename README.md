@@ -8,6 +8,7 @@ Ce projet fournit une API JSON pour référencer tous les hôtels de la Martiniq
 
 Les communes sont classées par code INSEE.
 
+- 97229 - [SCHOELCHER](docs/MQ/97229-SCHOELCHER.json)
 - 97230 - [TRINITE](docs/MQ/97230-TRINITE.json)
 - 97231 - [TROIS ILETS](docs/MQ/97231-TROIS_ILETS.json)
 
