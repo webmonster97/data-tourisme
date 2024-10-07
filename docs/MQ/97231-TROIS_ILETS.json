@@ -1,6 +1,6 @@
 [
   {
-    "id": "hotel-001",
+    "id": "hotel-97231-001",
     "nom": "Hôtel La Pagerie",
     "description": "Hôtel 4 étoiles avec piscine, restaurant et accès à la plage.",
     "adresse": {
@@ -29,7 +29,7 @@
     ]
   },
   {
-    "id": "hotel-002",
+    "id": "hotel-97231-002",
     "nom": "Hôtel Bakoua",
     "description": "Situé sur la plage, cet hôtel offre une vue imprenable sur la mer des Caraïbes.",
     "adresse": {
@@ -58,7 +58,7 @@
     ]
   },
   {
-    "id": "hotel-003",
+    "id": "hotel-97231-003",
     "nom": "Résidence Les Amandiers",
     "description": "Résidence offrant des appartements entièrement équipés avec vue sur la mer.",
     "adresse": {
@@ -87,7 +87,7 @@
     ]
   },
   {
-    "id": "hotel-004",
+    "id": "hotel-97231-004",
     "nom": "Hôtel La Dunette",
     "description": "Charmant hôtel en bord de mer, parfait pour une escapade tranquille.",
     "adresse": {
