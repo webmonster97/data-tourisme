@@ -8,7 +8,8 @@ Ce projet fournit une API JSON pour référencer tous les hôtels de la Martiniq
 
 Les communes sont classées par code INSEE.
 
-97231 - [Les Trois-Ilets](docs/MQ/97231.json)
+97230 - [TRINITE](docs/MQ/97230-TRINITE.json)
+97231 - [TROIS ILETS](docs/MQ/97231-TROIS_ILETS.json)
 
 ---
 
