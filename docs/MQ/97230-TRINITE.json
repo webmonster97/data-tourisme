@@ -1,6 +1,6 @@
 [
   {
-    "id": "hotel-001",
+    "id": "hotel-97230-001",
     "nom": "Hôtel Le Galion",
     "description": "Hôtel 3 étoiles avec accès direct à la plage, restaurant et activités nautiques.",
     "adresse": {
@@ -29,7 +29,7 @@
     ]
   },
   {
-    "id": "hotel-002",
+    "id": "hotel-97230-002",
     "nom": "Hôtel Caribeen",
     "description": "Charmant hôtel en bord de mer, idéal pour les couples et les familles.",
     "adresse": {
@@ -58,7 +58,7 @@
     ]
   },
   {
-    "id": "hotel-003",
+    "id": "hotel-97230-003",
     "nom": "Résidence Les Flamboyants",
     "description": "Résidence de vacances avec appartements équipés et piscine.",
     "adresse": {
@@ -87,7 +87,7 @@
     ]
   },
   {
-    "id": "hotel-004",
+    "id": "hotel-97230-004",
     "nom": "Hôtel La Plantation",
     "description": "Hôtel 4 étoiles au cœur d'un jardin tropical, avec restaurant gastronomique.",
     "adresse": {
